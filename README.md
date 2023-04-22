@@ -9,7 +9,7 @@ animals or wind and water.
 ![](screenshots/overview.png)
 
 ## Usage
-
+##
 **soundscape-qt** comes with two example soundscapes. Use mouse right-click in
 the main window or on the tray icon to access application menu where you can add
 or remove soundtracks and change their settings.
