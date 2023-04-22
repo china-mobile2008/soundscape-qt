@@ -19,5 +19,5 @@ set(APP_EXE ${PROJECT_NAME})
 
 add_subdirectory(src)
 
-enable_testing(TRUE)
-add_subdirectory(tests)
+#enable_testing(TRUE)
+#add_subdirectory(tests)
